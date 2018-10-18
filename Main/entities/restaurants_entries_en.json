@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Delhi",
+    "synonyms": [
+      "Delhi"
+    ]
+  },
+  {
+    "value": "Paris",
+    "synonyms": [
+      "Paris"
+    ]
+  },
+  {
+    "value": "London",
+    "synonyms": [
+      "London"
+    ]
+  },
+  {
+    "value": "Berlin",
+    "synonyms": [
+      "Berlin"
+    ]
+  },
+  {
+    "value": "Washington DC",
+    "synonyms": [
+      "Washington DC"
+    ]
+  },
+  {
+    "value": "Mumbai",
+    "synonyms": [
+      "Mumbai"
+    ]
+  }
+]

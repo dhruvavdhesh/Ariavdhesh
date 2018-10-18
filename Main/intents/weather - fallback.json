@@ -1,0 +1,36 @@
+{
+  "id": "3a3faa60-d575-42c8-bf57-62989582ab98",
+  "parentId": "a2d817d8-50b8-499f-ac31-4d5c5b459051",
+  "rootParentId": "a2d817d8-50b8-499f-ac31-4d5c5b459051",
+  "name": "weather - fallback",
+  "auto": false,
+  "contexts": [
+    "weather-followup",
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather.weather-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I couldn\u0027t find the weather report"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508264203,
+  "fallbackIntent": true,
+  "events": []
+}

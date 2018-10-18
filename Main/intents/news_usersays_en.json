@@ -1,0 +1,349 @@
+[
+  {
+    "id": "ab5b5011-521e-4a8d-b08d-e2e7e274a54f",
+    "data": [
+      {
+        "text": "tell me the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507701185
+  },
+  {
+    "id": "c7a23f54-6d79-4c94-a1d7-dfb3f86f83ca",
+    "data": [
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      },
+      {
+        "text": " report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "44a0acde-c782-4932-82d0-0be6bdfe1e21",
+    "data": [
+      {
+        "text": "give me breaking ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "83b36c66-af72-4d4c-a6e4-25ded0946450",
+    "data": [
+      {
+        "text": "read ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "340ba693-e804-4e7e-8a80-976651f1ccde",
+    "data": [
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "834f83ef-0185-446b-974d-443a957e778c",
+    "data": [
+      {
+        "text": "read top ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "35e65af1-3f7f-4e4c-9b8b-2874aa707b21",
+    "data": [
+      {
+        "text": "headlines",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": true
+      },
+      {
+        "text": " for today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "41b26687-675a-40db-935a-fcd90ba190de",
+    "data": [
+      {
+        "text": "I want to read the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "1304e43c-70e6-4040-a6ea-0217fedb6d00",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "headlines",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "bb5c9687-7c69-41ca-8bb4-31cc51a52ab8",
+    "data": [
+      {
+        "text": "I want to hear the ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "e9241eea-6c58-4f69-a433-483b44cd9565",
+    "data": [
+      {
+        "text": "bring me up the hottest ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "28ce78f1-29e4-4edb-9335-4e9aee7e2a1d",
+    "data": [
+      {
+        "text": "read the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "0d5f70d1-7ade-4398-bc82-f87114916819",
+    "data": [
+      {
+        "text": "recent ",
+        "userDefined": false
+      },
+      {
+        "text": "headlines",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "32564672-3819-4733-9ae4-125eb1fa11e0",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      },
+      {
+        "text": " for the day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "90785c1b-3fa7-4166-9391-a7f8475add2c",
+    "data": [
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "f61af60e-ac5b-43a1-b039-1d85cda1d8b8",
+    "data": [
+      {
+        "text": "show me the recent ",
+        "userDefined": false
+      },
+      {
+        "text": "headlines",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "1ba5480b-6aff-4e04-a5e1-77c1d7a3b1b6",
+    "data": [
+      {
+        "text": "bring me the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "f78d468b-3e1c-4da1-908f-49e595d501e5",
+    "data": [
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      },
+      {
+        "text": " update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  },
+  {
+    "id": "78df2d18-6e72-49ed-8030-85420443bab3",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "news",
+        "meta": "@news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507555848
+  }
+]

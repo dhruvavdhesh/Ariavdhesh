@@ -1,0 +1,388 @@
+[
+  {
+    "id": "58ca7aae-2245-4fb4-8853-e5065595412b",
+    "data": [
+      {
+        "text": "Who is the ",
+        "userDefined": false
+      },
+      {
+        "text": "President of USA",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507701261
+  },
+  {
+    "id": "324819c4-f6ec-45f1-a66e-2c8f4143489c",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "funny cats",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "2aa897ad-1064-4a7f-a0a1-199ee10f4dd0",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Metropolitan Museum",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Wikipedia",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "bd6c6522-465a-46ae-bf86-916c2a1c39cf",
+    "data": [
+      {
+        "text": "google",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "recipe for tomato soup",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "fb23efcf-869e-4bb3-b8c3-2b9af9a5d23b",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Microsoft",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "a47df809-c37f-41df-802a-af46c8c397d1",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "how to build a house",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "57d585a4-4bb9-4f16-9049-2958764d5017",
+    "data": [
+      {
+        "text": "web search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "553c6316-b6da-4995-b140-7c53b7ee9119",
+    "data": [
+      {
+        "text": "find information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "77a43551-f95a-450a-9cdb-b3850e4e252b",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Lady Gaga\u0027s husband",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on the Internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "2781ae2e-f337-4cf6-9183-4cd1e19a4edb",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "apple pie recipes",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "b966872e-ebd4-4646-800e-a4c72c608a71",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "popular wallpapers",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Yahoo",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "bcdc15c0-1cec-4576-a959-aa8a572ceb26",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "Dhruv Avdhesh",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "e93961b5-c524-4b92-b38a-ffe70dbce58d",
+    "data": [
+      {
+        "text": "can you find information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08b71c44-56ad-4e76-a497-5b7a2d753cca",
+    "data": [
+      {
+        "text": "google",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "David Bowie",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1507461735
+  },
+  {
+    "id": "a7098e4d-58e5-4383-80bf-fd40d3b4c18b",
+    "data": [
+      {
+        "text": "search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48a27141-7690-4f1f-bf80-31599b285c72",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Newton laws",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in the web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "acdaf225-bbc7-4630-83aa-2ca2020523f5",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Pink\u0027s biography",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Wikipedia",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "9e2fe483-cf72-4596-a416-5c8407d4f343",
+    "data": [
+      {
+        "text": "Google",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "who is the president of the United States",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  },
+  {
+    "id": "7eb1ca84-761b-47c0-bf20-1ad5a024977c",
+    "data": [
+      {
+        "text": "search the Internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0eae3932-d415-4324-a9f6-56e926680c13",
+    "data": [
+      {
+        "text": "look up ",
+        "userDefined": false
+      },
+      {
+        "text": "Monty Python",
+        "alias": "websearch",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507461735
+  }
+]

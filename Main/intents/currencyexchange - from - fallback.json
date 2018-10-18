@@ -1,0 +1,35 @@
+{
+  "id": "e1ff95fe-f0af-4998-b8b9-ec7848600ba2",
+  "parentId": "c5f7ee21-aabf-41d9-a8e5-f6e1e362ae54",
+  "rootParentId": "e593b233-649f-4783-93a6-9c3972b58179",
+  "name": "currencyexchange - from - fallback",
+  "auto": false,
+  "contexts": [
+    "currencyexchange-from-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "currencyexchange-from.currencyexchange-from-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "My currency exchange manager just retired."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508263953,
+  "fallbackIntent": true,
+  "events": []
+}

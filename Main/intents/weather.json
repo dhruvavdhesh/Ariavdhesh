@@ -1,0 +1,85 @@
+{
+  "id": "a2d817d8-50b8-499f-ac31-4d5c5b459051",
+  "name": "weather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "weather-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "71fa40b3-c8bb-4777-9a2d-fdb86121d6e8",
+          "required": true,
+          "dataType": "@weather",
+          "name": "weather",
+          "value": "$weather",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "City?"
+            },
+            {
+              "lang": "en",
+              "value": "Which city?"
+            },
+            {
+              "lang": "en",
+              "value": "Location?"
+            },
+            {
+              "lang": "en",
+              "value": "Place?"
+            },
+            {
+              "lang": "en",
+              "value": "Which location?"
+            },
+            {
+              "lang": "en",
+              "value": "Which place?"
+            },
+            {
+              "lang": "en",
+              "value": "Area?"
+            },
+            {
+              "lang": "en",
+              "value": "Which area?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508264183,
+  "fallbackIntent": false,
+  "events": []
+}

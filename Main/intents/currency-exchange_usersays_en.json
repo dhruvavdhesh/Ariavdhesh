@@ -1,0 +1,178 @@
+[
+  {
+    "id": "76f22b18-5f02-40de-808a-47ff4a974b3a",
+    "data": [
+      {
+        "text": "convert 100 ",
+        "userDefined": false
+      },
+      {
+        "text": "GBP",
+        "alias": "currencyfrom",
+        "meta": "@currencyfrom",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "USD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508255633
+  },
+  {
+    "id": "5660bb67-ac3e-40c6-91df-6441045b9ba7",
+    "data": [
+      {
+        "text": "what\u0027s the exchange rate for ",
+        "userDefined": false
+      },
+      {
+        "text": "CAD",
+        "alias": "currencyfrom",
+        "meta": "@currencyfrom",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "USD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508255633
+  },
+  {
+    "id": "c9816b03-888f-4556-8fc6-381516b4bc64",
+    "data": [
+      {
+        "text": "convert 3 ",
+        "userDefined": false
+      },
+      {
+        "text": "RUB",
+        "alias": "currencyfrom",
+        "meta": "@currencyfrom",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "USD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508255633
+  },
+  {
+    "id": "df29cf2a-9402-4423-98da-d0f8bf7e3a11",
+    "data": [
+      {
+        "text": "USD",
+        "alias": "currencyfrom",
+        "meta": "@currencyfrom",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "JPY",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508255633
+  },
+  {
+    "id": "9ddca894-6d90-490f-9e0b-4067cc59c49a",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "EUR",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      },
+      {
+        "text": " exchange rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508255633
+  },
+  {
+    "id": "efa722aa-a71f-42ef-84bd-e7d7960e597d",
+    "data": [
+      {
+        "text": "convert 1000 ",
+        "userDefined": false
+      },
+      {
+        "text": "INR",
+        "alias": "currencyfrom",
+        "meta": "@currencyfrom",
+        "userDefined": true
+      },
+      {
+        "text": " into ",
+        "userDefined": false
+      },
+      {
+        "text": "JPY",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508255633
+  },
+  {
+    "id": "f12221fe-7e9a-4e78-8788-524ff3169e6d",
+    "data": [
+      {
+        "text": "GBP",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": true
+      },
+      {
+        "text": " currency rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508255633
+  }
+]

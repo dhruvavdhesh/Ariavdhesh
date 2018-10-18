@@ -1,0 +1,36 @@
+{
+  "id": "f06f7b96-270e-4ff1-b956-940a6e8c05ff",
+  "parentId": "d8c2a8bc-a58b-40a9-b7eb-3e9dbe000961",
+  "rootParentId": "d8c2a8bc-a58b-40a9-b7eb-3e9dbe000961",
+  "name": "restaurants - fallback",
+  "auto": false,
+  "contexts": [
+    "restaurants",
+    "restaurants-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "restaurants.restaurants-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Restaurant lookup failed"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508264166,
+  "fallbackIntent": true,
+  "events": []
+}

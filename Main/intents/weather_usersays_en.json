@@ -1,0 +1,558 @@
+[
+  {
+    "id": "d97821d5-670c-402b-af6b-56f718e428c9",
+    "data": [
+      {
+        "text": "bring up the weather for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "27008b8a-7076-4f2e-8943-323c8906c4c3",
+    "data": [
+      {
+        "text": "the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Miami",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " is what",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "11c3c0df-19b1-4013-a53c-06ea0d0a198e",
+    "data": [
+      {
+        "text": "what will be the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "5399b198-abd1-42ac-ac66-1d4eb0979abb",
+    "data": [
+      {
+        "text": "how is the weather in my area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "4e56ef65-e736-4ecf-913c-8b88ee2e9ddb",
+    "data": [
+      {
+        "text": "What is the weather like ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "1c20c16a-1864-40d3-bb58-601d38101142",
+    "data": [
+      {
+        "text": "India",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " weather report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "bdc8b4b7-2ff7-4a3f-b8ba-f74bf6e3bbcb",
+    "data": [
+      {
+        "text": "what is the weather like right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "e51f8a0c-46bc-4c21-a838-f29f08f5f1dd",
+    "data": [
+      {
+        "text": "what\u0027s the weather like in our area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "33a128f0-bda9-41ff-92a7-5420a8a24e4a",
+    "data": [
+      {
+        "text": "what\u0027s the weather going to be like later ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "e9062933-428c-4e6f-b87a-55345dd6cc99",
+    "data": [
+      {
+        "text": "tell me what\u0027s the weather like in ",
+        "userDefined": false
+      },
+      {
+        "text": "Atlanta",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "5b957e4a-e2fb-451b-98f6-ae5e6526a1a6",
+    "data": [
+      {
+        "text": "what is the weather for ",
+        "userDefined": false
+      },
+      {
+        "text": "Greenville",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "87daff95-fb79-48a4-975d-f4f57542d091",
+    "data": [
+      {
+        "text": "what is today\u0027s weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "0cfe87d4-a0c7-4706-9f73-60e4b1dabf12",
+    "data": [
+      {
+        "text": "how\u0027s the weather going to be ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "b29e04e1-a46d-4cb1-b1ab-69fcdecb46eb",
+    "data": [
+      {
+        "text": "weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "b6cea97d-244d-4663-b8cd-6dd7cdb8cd19",
+    "data": [
+      {
+        "text": "what is today\u0027s weather like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "a88a98fc-ff79-490a-a599-42e9263489ba",
+    "data": [
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "52ac4c2d-fc15-4417-85b0-642fd40784af",
+    "data": [
+      {
+        "text": "what\u0027s the weather like in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "89848469-3ef8-4ee6-8839-a2a2251854aa",
+    "data": [
+      {
+        "text": "weather now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "53ef47dd-29b3-4aff-a478-09c52cc48e8e",
+    "data": [
+      {
+        "text": "what is the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cape Town",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "60381599-0323-4e34-ad55-627c99dc1d1f",
+    "data": [
+      {
+        "text": "weather ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "20331355-9896-4984-b09b-311e15b8a2b1",
+    "data": [
+      {
+        "text": "weather of ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "a2d12118-5631-411d-a94c-bcb3a6a2c246",
+    "data": [
+      {
+        "text": "find weather ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "8d572970-3c13-468f-821d-51dc2a711e29",
+    "data": [
+      {
+        "text": "what is the weather for ",
+        "userDefined": false
+      },
+      {
+        "text": "Kernersville",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "ecf40e40-7507-4ce8-80c2-31101dc1162a",
+    "data": [
+      {
+        "text": "what is the current weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "4b0d94a8-f0b8-442e-a956-d242d2be14c8",
+    "data": [
+      {
+        "text": "what\u0027s the weather like in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delft",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "31b541a3-d1b9-46c7-9383-1a337b3f5010",
+    "data": [
+      {
+        "text": "weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8044f4c3-9a1f-4616-adbc-251a15955309",
+    "data": [
+      {
+        "text": "what is the weather forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "this afternoon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "e106810d-48af-4dc0-8ec6-4017ac94c443",
+    "data": [
+      {
+        "text": "could you give me the weather forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "Hong Kong",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "c2152de5-498a-4f7e-b96d-3e47ed3d75fc",
+    "data": [
+      {
+        "text": "how\u0027s the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "8ddb4bfa-6e50-48a6-9228-027217e63234",
+    "data": [
+      {
+        "text": "weather in this area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "d1e426ea-c3ac-496e-b1e8-e78c07611289",
+    "data": [
+      {
+        "text": "find weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "93167842-d1c1-47de-aa81-ffd16d624adc",
+    "data": [
+      {
+        "text": "current forecast in ",
+        "userDefined": false
+      },
+      {
+        "text": "Valencia",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  },
+  {
+    "id": "8b75af91-bc94-4278-a179-c9ac9e82a71c",
+    "data": [
+      {
+        "text": "weather ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507622711
+  }
+]

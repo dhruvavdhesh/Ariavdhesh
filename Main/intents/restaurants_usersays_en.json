@@ -1,0 +1,424 @@
+[
+  {
+    "id": "4e752954-c433-48c7-a546-c174bced0483",
+    "data": [
+      {
+        "text": "can you book a ",
+        "userDefined": false
+      },
+      {
+        "text": "table",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Pizza",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "e5ff0ed8-d82a-4164-89fc-1862def853ca",
+    "data": [
+      {
+        "text": "can you make a reservation at Nobu in ",
+        "userDefined": false
+      },
+      {
+        "text": "Las Vegas",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "9 PM",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "f2f26cd0-9457-4fc9-980f-45b6cc5ef27f",
+    "data": [
+      {
+        "text": "book Osteria Mozza in ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "e3f651ea-5d38-48f9-a006-4da21c74d64f",
+    "data": [
+      {
+        "text": "can you make a reserve at ",
+        "userDefined": false
+      },
+      {
+        "text": "Four Seasons",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington DC",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "a9d01b96-b5b4-490d-89bf-11f4a205828f",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "8a8bee12-5b4b-4d43-9f27-ce9e090ea4e2",
+    "data": [
+      {
+        "text": "book Le Bernardin restaurant on ",
+        "userDefined": false
+      },
+      {
+        "text": "155 w 51st",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for Thursday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "ad19e94a-29ab-462e-ab73-713e29865c28",
+    "data": [
+      {
+        "text": "book an ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " restaurant near ",
+        "userDefined": false
+      },
+      {
+        "text": "Soho",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " people for ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday night",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "a58ea271-bc07-402f-b22f-d27fd01073e7",
+    "data": [
+      {
+        "text": "book a restaurant in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "05581f48-7e60-4c51-be77-f30c8343011c",
+    "data": [
+      {
+        "text": "book me a ",
+        "userDefined": false
+      },
+      {
+        "text": "table",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Barcelona",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "c2ec3e9e-6cd2-4340-9226-15898eaeb401",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "table",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " at a ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " place around ",
+        "userDefined": false
+      },
+      {
+        "text": "Castro street",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "eed57ce8-e58c-4df3-8104-13d4998bc79a",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " restaurant on ",
+        "userDefined": false
+      },
+      {
+        "text": "900 seventh avenue",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "b1e685b6-2a22-4341-8df9-060911d8a48b",
+    "data": [
+      {
+        "text": "Could you find restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "Manhattan",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "9021d753-e8cc-4e7d-b64c-50d08f9be319",
+    "data": [
+      {
+        "text": "could you find restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "Manhattan",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508238569
+  },
+  {
+    "id": "7cb89ad1-4b38-4150-a017-22b43b5ef8ab",
+    "data": [
+      {
+        "text": "restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Biryani",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508235749
+  },
+  {
+    "id": "b9521a04-84c1-4973-98df-00538dd6a2c1",
+    "data": [
+      {
+        "text": "Restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "restaurants",
+        "meta": "@restaurants",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508171052
+  }
+]

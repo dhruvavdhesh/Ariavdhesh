@@ -1,0 +1,36 @@
+{
+  "id": "a74a707f-fb13-4108-a886-14ed8083142a",
+  "parentId": "f48d662e-402b-4ccd-ba39-d0616c1fdb35",
+  "rootParentId": "f48d662e-402b-4ccd-ba39-d0616c1fdb35",
+  "name": "websearch - fallback",
+  "auto": false,
+  "contexts": [
+    "websearch-followup",
+    "web-search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "websearch.websearch-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nothing found on the web"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508264254,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "56b1acda-c8fc-4999-80f4-8cc2d8c0bd49",
+  "parentId": "4a496d7f-bb4d-4825-bc69-71bd974a01a3",
+  "rootParentId": "4a496d7f-bb4d-4825-bc69-71bd974a01a3",
+  "name": "news - fallback",
+  "auto": false,
+  "contexts": [
+    "news",
+    "news-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "news.news-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The news service isn\u0027t available at the moment"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508264077,
+  "fallbackIntent": true,
+  "events": []
+}

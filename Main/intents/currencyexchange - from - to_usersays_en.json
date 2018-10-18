@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1ece7aed-e1c3-4f78-9bb6-5be8cdd4c047",
+    "data": [
+      {
+        "text": "CAD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "f31b7aa8-ea90-4eee-8160-6e26df9eb095",
+    "data": [
+      {
+        "text": "AUD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "a41d16fb-bdc0-4cd0-bf1c-45dfdc371a11",
+    "data": [
+      {
+        "text": "GBP",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "22fb352b-4eb9-4e5b-b530-d0baa7e14d9f",
+    "data": [
+      {
+        "text": "JPY",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "76ca3e9b-1a41-4f47-a37a-a669318fcfd7",
+    "data": [
+      {
+        "text": "EUR",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "84afc66e-be59-4567-88d9-5cb501234160",
+    "data": [
+      {
+        "text": "USD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "1f0d1140-5d7c-486e-90aa-79cda031dbe6",
+    "data": [
+      {
+        "text": "INR",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "cba97165-8bdf-4161-aab0-0f008fa3f71c",
+    "data": [
+      {
+        "text": "RUB",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "98772b16-6d2e-4f04-a467-74122b3ef065",
+    "data": [
+      {
+        "text": "TRY",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "800188e4-dabc-4dd7-a892-43560b41c385",
+    "data": [
+      {
+        "text": "KRW",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "ff0af6b0-4899-4677-81e3-839155c43889",
+    "data": [
+      {
+        "text": "NOK",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "bf9e8418-f70d-4b53-937b-8fd657729489",
+    "data": [
+      {
+        "text": "HKD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "b285b60a-785e-4e02-b766-a3ace729f21f",
+    "data": [
+      {
+        "text": "SGD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "16574638-d48a-4609-84db-6adb120d64e4",
+    "data": [
+      {
+        "text": "MXN",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "714b54fc-3dee-4723-acd8-f10e67111668",
+    "data": [
+      {
+        "text": "NZD",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "cbe56eaf-f88d-44b9-a609-205a78fda6e6",
+    "data": [
+      {
+        "text": "SEK",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "4366369b-701c-4955-98a5-fff05045c6e2",
+    "data": [
+      {
+        "text": "CNY",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  },
+  {
+    "id": "86e11ba2-056a-47d3-a96e-1d6acd3e29e3",
+    "data": [
+      {
+        "text": "CHF",
+        "alias": "currencyto",
+        "meta": "@currencyto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508253675
+  }
+]

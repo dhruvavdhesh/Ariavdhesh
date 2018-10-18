@@ -1,0 +1,84 @@
+{
+  "id": "d8c2a8bc-a58b-40a9-b7eb-3e9dbe000961",
+  "name": "restaurants",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "restaurants",
+      "affectedContexts": [
+        {
+          "name": "restaurants",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "restaurants-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a93820e7-7d2a-4c00-8e14-f23b46277c6b",
+          "required": true,
+          "dataType": "@restaurants",
+          "name": "restaurants",
+          "value": "$restaurants",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "City?"
+            },
+            {
+              "lang": "en",
+              "value": "Which city?"
+            },
+            {
+              "lang": "en",
+              "value": "Location?"
+            },
+            {
+              "lang": "en",
+              "value": "Which location?"
+            },
+            {
+              "lang": "en",
+              "value": "Area?"
+            },
+            {
+              "lang": "en",
+              "value": "Which area?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e751d4c8-9f0f-4144-9862-f514da25bfe9",
+          "dataType": "@cuisine",
+          "name": "cuisine",
+          "value": "$cuisine",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508264117,
+  "fallbackIntent": false,
+  "events": []
+}

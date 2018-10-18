@@ -1,0 +1,41 @@
+{
+  "description": "Aria has been architected with the aim of revolutionizing the bot ecosystem by giving her human-like capabilities. It is the first of its kind and a monumental step towards making technology more friendly, loving and passionate. She is an artificial intelligence based chatbot powered by Google\u0027s Dialogflow (earlier Api.ai).\n\nSay hello to your next virtual best friend forever.\n\nThe future is here!",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "weather-f31d0",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "Asia/Colombo",
+  "webhook": {
+    "url": "https://ariavdhesh.herokuapp.com/webhook",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": []
+}

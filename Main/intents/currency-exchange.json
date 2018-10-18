@@ -1,0 +1,54 @@
+{
+  "id": "ccbef297-f0c2-424d-ba10-8d7656d3a906",
+  "name": "currency-exchange",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "currencyexchange",
+      "affectedContexts": [
+        {
+          "name": "currency-exchange-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "865078b4-dbf7-4fac-af77-c0ef5064b694",
+          "dataType": "@currencyfrom",
+          "name": "currencyfrom",
+          "value": "$currencyfrom",
+          "prompts": [],
+          "defaultValue": "INR",
+          "isList": false
+        },
+        {
+          "id": "e23ddf5d-cca2-4967-a565-7a6fe8412b21",
+          "dataType": "@currencyto",
+          "name": "currencyto",
+          "value": "$currencyto",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508263866,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "value": "bulletin",
+    "synonyms": [
+      "bulletin"
+    ]
+  },
+  {
+    "value": "news",
+    "synonyms": [
+      "news"
+    ]
+  },
+  {
+    "value": "headlines",
+    "synonyms": [
+      "headlines"
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "value": "Paris",
+    "synonyms": [
+      "Paris"
+    ]
+  },
+  {
+    "value": "London",
+    "synonyms": [
+      "London"
+    ]
+  },
+  {
+    "value": "Cape Town",
+    "synonyms": [
+      "Cape Town"
+    ]
+  },
+  {
+    "value": "Pune",
+    "synonyms": [
+      "Pune"
+    ]
+  },
+  {
+    "value": "Hong Kong",
+    "synonyms": [
+      "Hong Kong"
+    ]
+  },
+  {
+    "value": "Berlin",
+    "synonyms": [
+      "Berlin"
+    ]
+  },
+  {
+    "value": "India",
+    "synonyms": [
+      "India"
+    ]
+  },
+  {
+    "value": "Delhi",
+    "synonyms": [
+      "Delhi"
+    ]
+  },
+  {
+    "value": "Tokyo",
+    "synonyms": [
+      "Tokyo"
+    ]
+  },
+  {
+    "value": "Delft",
+    "synonyms": [
+      "Delft"
+    ]
+  },
+  {
+    "value": "New York",
+    "synonyms": [
+      "New York"
+    ]
+  },
+  {
+    "value": "Atlanta",
+    "synonyms": [
+      "Atlanta"
+    ]
+  },
+  {
+    "value": "Valencia",
+    "synonyms": [
+      "Valencia"
+    ]
+  },
+  {
+    "value": "Greenville",
+    "synonyms": [
+      "Greenville"
+    ]
+  },
+  {
+    "value": "Mumbai",
+    "synonyms": [
+      "Mumbai"
+    ]
+  },
+  {
+    "value": "Kernersville",
+    "synonyms": [
+      "Kernersville"
+    ]
+  },
+  {
+    "value": "Miami",
+    "synonyms": [
+      "Miami"
+    ]
+  }
+]

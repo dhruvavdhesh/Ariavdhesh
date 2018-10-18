@@ -1,0 +1,157 @@
+{
+  "id": "c5f7ee21-aabf-41d9-a8e5-f6e1e362ae54",
+  "parentId": "e593b233-649f-4783-93a6-9c3972b58179",
+  "rootParentId": "e593b233-649f-4783-93a6-9c3972b58179",
+  "name": "currencyexchange - from",
+  "auto": true,
+  "contexts": [
+    "currencyexchange-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "currencyexchange-from-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "26c913b3-c9fe-417a-a5f5-6eabaefa484a",
+          "dataType": "@currencyfrom",
+          "name": "currencyfrom",
+          "value": "$currencyfrom",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Currency to:",
+          "subtitle": "United States Dollar (USD); Euro (EUR); Japanese Yen (JPY);",
+          "buttons": [
+            {
+              "text": "USD"
+            },
+            {
+              "text": "EUR"
+            },
+            {
+              "text": "JPY"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Currency to:",
+          "subtitle": "Pound Sterling (GBP); Australian Dollar (AUD); Canadian Dollar (CAD);",
+          "buttons": [
+            {
+              "text": "GBP"
+            },
+            {
+              "text": "AUD"
+            },
+            {
+              "text": "CAD"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Currency to:",
+          "subtitle": "Swiss Franc (CHF); Renminbi (CNY); Swedish Krona (SEK);",
+          "buttons": [
+            {
+              "text": "CHF"
+            },
+            {
+              "text": "CNY"
+            },
+            {
+              "text": "SEK"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Currency to:",
+          "subtitle": "New Zealand Dollar (NZD); Mexican Peso (MXN); Singapore Dollars (SGD);",
+          "buttons": [
+            {
+              "text": "NZD"
+            },
+            {
+              "text": "MXN"
+            },
+            {
+              "text": "SGD"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Currency to:",
+          "subtitle": "Hong Kong Dollar (HKD); Norwegian Krone (NOK); South Korean Won (KRW);",
+          "buttons": [
+            {
+              "text": "HKD"
+            },
+            {
+              "text": "NOK"
+            },
+            {
+              "text": "KRW"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Currency to:",
+          "subtitle": "Turkish Lira (TRY); Russian Ruble (RUB); Indian Rupee (INR);",
+          "buttons": [
+            {
+              "text": "TRY"
+            },
+            {
+              "text": "RUB"
+            },
+            {
+              "text": "INR"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508253233,
+  "fallbackIntent": false,
+  "events": []
+}

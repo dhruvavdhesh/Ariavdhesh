@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d93ce682-de9c-49e5-84d7-aac841cd7291",
+    "data": [
+      {
+        "text": "#CurrencyExchange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fd2663e9-8eef-44c9-9512-800ad8294470",
+    "data": [
+      {
+        "text": "#AriaCurrencyExchange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "f48d662e-402b-4ccd-ba39-d0616c1fdb35",
+  "name": "websearch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "websearch",
+      "affectedContexts": [
+        {
+          "name": "web-search",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "websearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d8756f6c-5938-4e2a-9a8a-947c7c89f977",
+          "dataType": "@sys.any",
+          "name": "websearch",
+          "value": "$websearch",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508264243,
+  "fallbackIntent": false,
+  "events": []
+}

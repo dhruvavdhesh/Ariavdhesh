@@ -1,0 +1,110 @@
+[
+  {
+    "value": "USD",
+    "synonyms": [
+      "USD"
+    ]
+  },
+  {
+    "value": "EUR",
+    "synonyms": [
+      "EUR"
+    ]
+  },
+  {
+    "value": "JPY",
+    "synonyms": [
+      "JPY"
+    ]
+  },
+  {
+    "value": "GBP",
+    "synonyms": [
+      "GBP"
+    ]
+  },
+  {
+    "value": "AUD",
+    "synonyms": [
+      "AUD"
+    ]
+  },
+  {
+    "value": "CAD",
+    "synonyms": [
+      "CAD"
+    ]
+  },
+  {
+    "value": "CHF",
+    "synonyms": [
+      "CHF"
+    ]
+  },
+  {
+    "value": "CNY",
+    "synonyms": [
+      "CNY"
+    ]
+  },
+  {
+    "value": "SEK",
+    "synonyms": [
+      "SEK"
+    ]
+  },
+  {
+    "value": "NZD",
+    "synonyms": [
+      "NZD"
+    ]
+  },
+  {
+    "value": "MXN",
+    "synonyms": [
+      "MXN"
+    ]
+  },
+  {
+    "value": "SGD",
+    "synonyms": [
+      "SGD"
+    ]
+  },
+  {
+    "value": "HKD",
+    "synonyms": [
+      "HKD"
+    ]
+  },
+  {
+    "value": "NOK",
+    "synonyms": [
+      "NOK"
+    ]
+  },
+  {
+    "value": "KRW",
+    "synonyms": [
+      "KRW"
+    ]
+  },
+  {
+    "value": "TRY",
+    "synonyms": [
+      "TRY"
+    ]
+  },
+  {
+    "value": "RUB",
+    "synonyms": [
+      "RUB"
+    ]
+  },
+  {
+    "value": "INR",
+    "synonyms": [
+      "INR"
+    ]
+  }
+]

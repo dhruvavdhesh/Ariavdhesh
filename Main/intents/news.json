@@ -1,0 +1,50 @@
+{
+  "id": "4a496d7f-bb4d-4825-bc69-71bd974a01a3",
+  "name": "news",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "news",
+      "affectedContexts": [
+        {
+          "name": "news",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "news-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f2131653-42af-4859-a699-f4653912d416",
+          "dataType": "@news",
+          "name": "news",
+          "value": "$news",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508264061,
+  "fallbackIntent": false,
+  "events": []
+}
