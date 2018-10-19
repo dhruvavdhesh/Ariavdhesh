@@ -1,0 +1,18 @@
+{
+  "name": "Ariavdhesh",
+  "version": "1.5.1",
+  "description": "Aria has been architected with the aim of revolutionizing the bot ecosystem by giving her human-like capabilities. It is the first of its kind and a monumental step towards making technology more friendly, loving and passionate. She is an artificial intelligence based chatbot powered by Google's Dialogflow (earlier Api.ai).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Ariavdhesh", "Aria", "Dhruv", "Avdhesh"
+  ],
+  "author": "Dhruv Avdhesh",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
