@@ -2,14 +2,4 @@
 
 <div align="center"><img src="https://dhruvavdhesh.in/img/ariavdhesh.jpg" width="25%" height="auto"></div>
 
-<p align="justify">Aria has been architected with the aim of revolutionizing the bot ecosystem by giving her human-like capabilities. It is the first of its kind and a monumental step towards making technology more friendly, loving and passionate. She is an artificial intelligence based chatbot powered by Google's Dialogflow (earlier Api.ai).<br><br>
-Say hello to your next virtual best friend forever.<br><br>
-The future is here!<br><br>
-Features:
-<ul>
-<li>Currency Exchange</li>
-<li>News Reading</li>
-<li>Restaurant Lookup</li>
-<li>Weather Report</li>
-<li>Web Search</li>
-</ul></p>
+<p align="justify">We live in a unique time – one where everyone interacts with some form of a computer daily but not enough people, given our ever-transforming world, actually know about the science behind making these machines work. Least to say, Computer Science education is foundational for the ever–growing technical world we live in.<br><br>But the current state of affairs indicates various issues at different levels revolving around CS education, including but not limited to, importance given to CS education, lack of teachers and resources at the K-12 level, access to quality CS education, shortfall in government and policy level emphasis, student perception of CS and how it is taught, and absence of a greater purpose and how CS can be used to solve pressing global issues.<br><br>The toolkit aims at developing an engaging framework for CS education to further sustainable development among university students which specifically addresses the issue of absence of a greater purpose and also prepares the future industry leaders to take on the biggest problems facing our generation.</p>
